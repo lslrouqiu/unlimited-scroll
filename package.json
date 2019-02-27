@@ -1,0 +1,20 @@
+{
+  "name": "unlimited-scroll",
+  "version": "1.0.0",
+  "description": "无限加载滚动条",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.pandatv.com:lisilei/unlimited-scroll.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.16.3",
+    "webpack-cli": "^3.1.0"
+  }
+}
